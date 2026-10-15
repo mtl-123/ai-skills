@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c657ae6a-e2e5-406e-87a1-ab5e43176a60",
+  "path": "docker-bind-mount-migration",
+  "path_key": "docker-bind-mount-migration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

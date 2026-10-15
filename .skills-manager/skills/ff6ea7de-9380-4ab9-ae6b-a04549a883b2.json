@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff6ea7de-9380-4ab9-ae6b-a04549a883b2",
+  "path": "remote-host-recon",
+  "path_key": "remote-host-recon",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

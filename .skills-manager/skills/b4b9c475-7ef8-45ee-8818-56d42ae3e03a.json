@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b4b9c475-7ef8-45ee-8818-56d42ae3e03a",
+  "path": "codebase-dead-file-audit",
+  "path_key": "codebase-dead-file-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

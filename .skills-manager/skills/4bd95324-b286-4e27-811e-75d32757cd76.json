@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4bd95324-b286-4e27-811e-75d32757cd76",
+  "path": "wecomcli-msg",
+  "path_key": "wecomcli-msg",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

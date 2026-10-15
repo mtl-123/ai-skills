@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d01c2ee-b15b-40a9-b1e9-087290517f87",
+  "path": "wecomcli-schedule",
+  "path_key": "wecomcli-schedule",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

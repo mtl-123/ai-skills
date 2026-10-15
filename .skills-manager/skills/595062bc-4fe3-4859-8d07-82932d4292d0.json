@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "595062bc-4fe3-4859-8d07-82932d4292d0",
+  "path": "wecomcli-todo",
+  "path_key": "wecomcli-todo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

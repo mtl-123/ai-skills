@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "67d68f49-7220-4689-a1b5-e984d34c9180",
+  "path": "wecomcli-smartsheet",
+  "path_key": "wecomcli-smartsheet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

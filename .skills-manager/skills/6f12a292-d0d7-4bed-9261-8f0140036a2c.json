@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6f12a292-d0d7-4bed-9261-8f0140036a2c",
+  "path": "remote-code-sync",
+  "path_key": "remote-code-sync",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

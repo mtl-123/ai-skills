@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5b4027dd-5bf0-4c03-b836-aa4db7b57d0d",
+  "path": "vercel-optimize",
+  "path_key": "vercel-optimize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

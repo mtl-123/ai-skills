@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1ed4a8a8-e8ff-475f-beb5-7dd4dd5aa5da",
+  "path": "writing-guidelines",
+  "path_key": "writing-guidelines",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9d2109ba-f1b4-46a5-b256-f890f41d7be8",
+  "path": "wecomcli-meeting",
+  "path_key": "wecomcli-meeting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

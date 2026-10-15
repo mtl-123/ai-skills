@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a0f8a3c-6325-4bab-88d9-e1a799ac7f38",
+  "path": "legacy-test-suite-revival",
+  "path_key": "legacy-test-suite-revival",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
